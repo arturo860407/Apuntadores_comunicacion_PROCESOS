@@ -1,4 +1,4 @@
-#Diferente ejemplos en C
+# Diferente ejemplos en C
 
 - Apuntadores a funciones
 - Funciones de strings
